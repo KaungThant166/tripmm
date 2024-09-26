@@ -1,0 +1,34 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "2 nights in ChaungThar",
+      "price": 150000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 2,
+      "name": "1 nights in ChaungThar",
+      "price": 100000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 3,
+      "name": "3 nights in Ngapali",
+      "price": 300000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 4,
+      "name": "3 nights in Bangok",
+      "price": 500000,
+      "location": "thailand"
+    },
+    {
+      "id": 5,
+      "name": "2 nights in Paris",
+      "price": 6000000,
+      "location": "French"
+    }
+  ]
+}
